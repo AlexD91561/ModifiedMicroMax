@@ -1,2 +1,1 @@
-# ModifiedMicroMax
-Modified version of MicroMax
+This is a modified version of the MicroMax chess engine.
